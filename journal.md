@@ -4,4 +4,4 @@
 
 ## Background
 
-## Methods
+## Results
