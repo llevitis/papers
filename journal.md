@@ -1,6 +1,6 @@
 # First paper
 
-## Intro
+## Intro, Intro 2
 
 ## Background
 
